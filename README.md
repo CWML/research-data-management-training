@@ -1,8 +1,8 @@
 # Research Data Management Training
 
-| Audience | Computational skills required | Duration |
-:----------|:----------|:----------|
-| Biomedical researchers | None | Estimated x hours of read time |
+| Audience | Computational skills required | Duration | Contact |
+:----------|:----------|:----------|:---------|
+| Biomedical researchers | None | Estimated x hours of read time | Sawyer Newman (medicaldata@yale.edu) |
 
 ### Description
 
