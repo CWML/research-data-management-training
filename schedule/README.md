@@ -16,7 +16,7 @@
 ## Reusing Research Data 
 
 |   Topic  | Description |
-|:------------------------:|:----------:|:--------:|
+|:------------------------:|:----------:|
 | Searching for data for reuse | hold |
 | Data citations | hold |
 
