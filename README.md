@@ -18,7 +18,7 @@ This content will help you learn about biomedical considerations for research da
 
 ### Workshop Content
 
-[Click here] for links to learning content.
+[Click here](https://cwml.github.io/research-data-management-training/schedule/) for links to learning content.
 
 ### Installation Requirements
 
